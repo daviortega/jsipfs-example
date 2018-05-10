@@ -1,0 +1,23 @@
+{
+  "name": "jsipfs-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ipfsTest.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daviortega/jsipfs-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daviortega/jsipfs-example/issues"
+  },
+  "homepage": "https://github.com/daviortega/jsipfs-example#readme",
+  "dependencies": {
+    "ipfs": "^0.28.2",
+    "ipfs-api": "^20.2.1"
+  }
+}
